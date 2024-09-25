@@ -1,0 +1,12 @@
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\bin\Debug\Lab1_windows.exe.config
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\bin\Debug\Lab1_windows.exe
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\bin\Debug\Lab1_windows.pdb
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.Form1.resources
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.Form2.resources
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.Properties.Resources.resources
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.csproj.GenerateResource.cache
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.exe
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.pdb
+C:\Users\Кирилл\source\repos\Lab1_windows\Lab1_windows\obj\Debug\Lab1_windows.Form3.resources
